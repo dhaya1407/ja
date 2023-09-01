@@ -18,6 +18,11 @@ public class Ddd {
 		System.out.println("murali");
 	
 	}
+	private void m4() {
+
+		System.out.println("karthik");
+	
+	}
 	
 	public static void main(String[] args) {
 		
@@ -25,6 +30,7 @@ public class Ddd {
 		c.m1();
 		c.m2();
 		c.m3();
+		c.m4();
 		
 	}
 }
